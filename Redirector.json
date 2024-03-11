@@ -1,0 +1,108 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2024-03-11T07:54:47.458Z",
+    "redirects": [
+        {
+            "description": "Xvideos",
+            "exampleUrl": "https://www.xvideos.com/",
+            "exampleResult": "https://sorria.netlify.app/",
+            "error": null,
+            "includePattern": "https://www.xvideos.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://sorria.netlify.app/",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Pornhub",
+            "exampleUrl": "https://pt.pornhub.com/",
+            "exampleResult": "https://sorria.netlify.app/",
+            "error": null,
+            "includePattern": "https://pt.pornhub.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://sorria.netlify.app/",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "SpankBang",
+            "exampleUrl": "https://br.spankbang.com/",
+            "exampleResult": "https://sorria.netlify.app/",
+            "error": null,
+            "includePattern": "https://br.spankbang.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://sorria.netlify.app/",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Famosas Nuas",
+            "exampleUrl": "https://famosasnuas.blog/",
+            "exampleResult": "https://sorria.netlify.app/",
+            "error": null,
+            "includePattern": "https://famosasnuas.blog/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://sorria.netlify.app/",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "XNXX",
+            "exampleUrl": "https://www.xnxx.com/",
+            "exampleResult": "https://sorria.netlify.app/",
+            "error": null,
+            "includePattern": "https://www.xnxx.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://sorria.netlify.app/",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "XNXX 2",
+            "exampleUrl": "https://xnxx.health/search/xnxx?top",
+            "exampleResult": "https://sorria.netlify.app/",
+            "error": null,
+            "includePattern": "https://xnxx.health/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://sorria.netlify.app/",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}
